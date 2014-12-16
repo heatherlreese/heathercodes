@@ -7,7 +7,7 @@ gem 'puma'
 gem 'pg',  group: :production
 
 group :development do 
-  # gem 'sqlite3'
+  gem 'sqlite3'
 end
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
